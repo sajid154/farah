@@ -1,0 +1,6 @@
+these are test changes to show how to commit changes.
+ ok?
+
+step- 1 : git add .
+2. git gui
+3. git 
