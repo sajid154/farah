@@ -3,4 +3,58 @@ these are test changes to show how to commit changes.
 
 step- 1 : git add .
 2. git gui
-3. git 
+3. git commit
+ (sometimes it asks for username and email to set globally for next time)
+
+type your email address there in git bash window 
+
+now git gui commit will work
+
+now git push
+
+all set
+
+now, all your code changes will be pushed in this way.
+
+now make a new sample file and commit the changes
+or ask if you have any question
+helloo.....jo bnai hui wo?
+hanji is folder ma rakho aur changes push karo
+agar samj ni i to dobara kar k dikhaoon?g sir wo code ya file ko kesay push kru?
+
+ok look 
+
+
+
+htdocs/farah is a git repository
+ok?
+g
+now if any changes in this folder will need to be pushed.
+eg. if i add a  . in a file
+it need to be pushed.
+
+now whaterever we have written in this file, need to be pushed
+look how
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
